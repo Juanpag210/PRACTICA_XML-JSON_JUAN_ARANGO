@@ -1,0 +1,51 @@
+{
+	"Empleados":[
+		{
+			"IdEmpleado": 1,
+			"strNombre": "Juan Alvarez",
+			"NumDocumento": 12345,
+			"StrDireccion": "calle 1 1-15",
+			"StrTelefono": "4501212",
+			"StrEmail": "juan@gmail.com",
+			"DtmIngreso": "2022-11-15 10:00:00"
+		},
+		{
+			"IdEmpleado": 2,
+			"strNombre": "María Torres",
+			"NumDocumento": 67890,
+			"StrDireccion": "carrera 5 10-20",
+			"StrTelefono": "3204567890",
+			"StrEmail": "maria.torres@email.com",
+			"DtmIngreso": "2023-01-02 10:00:00"
+		},
+		{	
+			"IdEmpleado": 3,
+			"strNombre": "Carlos Pérez",
+			"NumDocumento": 11223,
+			"StrDireccion": "avenida 3 15-40",
+			"StrTelefono": "3112233445",
+			"StrEmail": "carlos.perez@email.com",
+			"DtmIngreso": "2021-08-20 10:00:00"
+		},
+		{
+			"IdEmpleado": 4,
+			"strNombre": "Laura Gómez",
+			"NumDocumento": 33445,
+			"StrDireccion": "calle 8 2-18",
+			"StrTelefono": "3019988776",
+			"StrEmail": "laura.gomez@email.com",
+			"DtmIngreso": "2020-06-05 10:00:00"
+		},
+		{
+			"IdEmpleado": 5,
+			"strNombre": "Andrés Castillo",
+			"NumDocumento": 55667,
+			"StrDireccion": "transversal 45 67-89",
+			"StrTelefono": "3136655443",
+			"StrEmail": "andres.castillo@email.com",
+			"DtmIngreso": "2019-03-12 10:00:00"
+		}
+	
+	]
+	
+}
